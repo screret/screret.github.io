@@ -3,11 +3,13 @@
   "1.16.5": {
     "1.0.0": "initial update",
     "1.0.1": "the owner of the machine can now get paid",
-    "1.0.2": "added updates system"
+    "1.0.2": "added updates system",
+    "1.0.3": "bugfixes",
+    "1.0.4": "added \"money\" item, and config values"
   },
   "promos": {
-    "1.16.5-latest": "1.0.2",
+    "1.16.5-latest": "1.0.4",
 
-    "1.16.5-recommended": "1.0.2"
+    "1.16.5-recommended": "1.0.4"
   }
 }
