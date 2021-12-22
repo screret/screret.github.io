@@ -5,11 +5,12 @@
     "1.0.1": "the owner of the machine can now get paid",
     "1.0.2": "added updates system",
     "1.0.3": "bugfixes",
-    "1.0.4": "added \"money\" item, and config values"
+    "1.0.4": "added \"money\" item, and config values",
+    "1.0.5": "added config value for amount of money given to new players"
   },
   "promos": {
-    "1.16.5-latest": "1.0.4",
+    "1.16.5-latest": "1.0.5",
 
-    "1.16.5-recommended": "1.0.4"
+    "1.16.5-recommended": "1.0.5"
   }
 }
