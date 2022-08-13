@@ -12,11 +12,17 @@
     "2.0.0": "1.18.2 update",
     "2.0.1": "Added info text to prices gui"
   },
+  "1.19.2": {
+    "3.0.0": "1.19.2 update\nhttps://www.curseforge.com/minecraft/mc-mods/vending-machines/files/3932267"
+  },
   "promos": {
     "1.16.5-latest": "1.0.5",
     "1.16.5-recommended": "1.0.5",
     
     "1.18.2-latest": "2.0.1",
-    "1.18.2-recommended": "2.0.1"
+    "1.18.2-recommended": "2.0.1",
+    
+    "1.19.2-latest": "3.0.0",
+    "1.19.2-recommended": "3.0.0",
   }
 }
